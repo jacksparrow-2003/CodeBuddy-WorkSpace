@@ -1,0 +1,8 @@
+# Compiled output
+ipsec_client
+*.o
+
+# Debug files
+*.dSYM
+*.swp
+*~
